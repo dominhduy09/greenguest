@@ -62,5 +62,5 @@ GreenQuest gamifies sustainability with:
 - Supabase
 
 ## Try It Out
-[sb1z6vkiveh-wgg1--5173--cb7c0bca.local-corp.webcontainer.io](sb1z6vkiveh-wgg1--5173--cb7c0bca.local-corp.webcontainer.io)
-[https://bolt.new/~/sb1-z6vkiveh](https://bolt.new/~/sb1-z6vkiveh)
+- [sb1z6vkiveh-wgg1--5173--cb7c0bca.local-corp.webcontainer.io](sb1z6vkiveh-wgg1--5173--cb7c0bca.local-corp.webcontainer.io)
+- [https://bolt.new/~/sb1-z6vkiveh](https://bolt.new/~/sb1-z6vkiveh)
